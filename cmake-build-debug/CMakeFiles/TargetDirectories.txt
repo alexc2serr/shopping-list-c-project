@@ -1,0 +1,3 @@
+C:/Users/serra/OneDrive/Documentos/!!!Universidad/FP/examenEjercicio4/cmake-build-debug/CMakeFiles/examenEjercicio4.dir
+C:/Users/serra/OneDrive/Documentos/!!!Universidad/FP/examenEjercicio4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/serra/OneDrive/Documentos/!!!Universidad/FP/examenEjercicio4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
